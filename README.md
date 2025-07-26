@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Hello,%20I'm%20Aditya&fontColor=000&textBg=false&descAlign=62" />
+  <img src="[https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Hello,%20I'm%20Aditya&fontColor=000&textBg=false&descAlign=62](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Hello,%20I'm%20Aditya&textBg=false&descAlign=62)" />
 </p>
 
 
