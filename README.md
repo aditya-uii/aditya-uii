@@ -1,5 +1,5 @@
 <p align="center">
-[  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F7FD5,86A8E7,91EAE4&height=200&section=header&text=Hey%20There!%20I'm%20Aditya%20Kashyap%20👋&fontSize=40&fontColor=ffffff" />](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Hello%20I'm%20Aditya)
+https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Hello%20I'm%20Aditya
 </p>
 
 ## 👨‍💻 About Me
