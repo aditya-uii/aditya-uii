@@ -39,3 +39,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7F7FD5,86A8E7,91EAE4&height=120&section=footer"/>
 </p>
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aditya-ui7998&theme=github_dark)
+
