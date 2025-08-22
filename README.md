@@ -14,8 +14,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditya-ui7998&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-ui7998&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aditya-uii&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-uii&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
 </p>
 
 ---
@@ -23,7 +23,7 @@
 ## 📈 Contribution Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-ui7998&theme=react-dark" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya-uii&theme=react-dark" alt="GitHub Activity Graph" />
 </p>
 
 ---
